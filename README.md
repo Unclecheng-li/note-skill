@@ -24,9 +24,11 @@
     
     输出：手写笔记本风格的单 HTML 文件，包含手写字体、纸质背景、
          螺旋装订孔、胶带装饰、流程图、代码块等元素。
+<div align="center">
 <img width="555" height="717" alt="image" src="https://github.com/user-attachments/assets/f7f4d020-4ba6-4977-8150-204821ca9217" />
 <img width="768" height="630" alt="image" src="https://github.com/user-attachments/assets/ea7a17ec-57d4-40ef-86bd-aec4fec10bd5" />
 <img width="755" height="632" alt="image" src="https://github.com/user-attachments/assets/50fd464a-f6db-408a-915b-4c04e7f87240" />
+</div>
 适用于技术笔记、漏洞分析、安全研究记录、知识点总结、课堂笔记等场景。
 
 ---
