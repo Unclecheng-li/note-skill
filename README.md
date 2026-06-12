@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE) [![WorkBuddy](https://img.shields.io/badge/WorkBuddy-Skill-green)](https://workbuddy.ai/) [![HTML5](https://img.shields.io/badge/HTML5-Single_File-orange)](assets/)
 
-**不是模板合集，是可运行的 AI 笔记生成工作流。**
+给 AI Agent 用的笔记生成 Skill，输入技术内容，输出手写风格的 HTML 笔记。
 
 配合 WorkBuddy、OpenClaw 等 AI Agent 使用，将技术文本自动转换为手写笔记本风格的精美网页笔记。
 
